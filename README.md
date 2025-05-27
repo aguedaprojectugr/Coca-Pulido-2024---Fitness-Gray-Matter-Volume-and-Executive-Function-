@@ -58,5 +58,5 @@ Francisco B. Ortega: Established researcher (ortegaf@ugr.es)
 _____________________________________________________________________________________________________
 # Materials
 _____________________________________________________________________________________________________
-The scripts used for the analyses and generation of figures in this paper are provided in the Scripts folder.
+The scripts used for the analyses and generation of figures in this paper are provided in this repository.
 
