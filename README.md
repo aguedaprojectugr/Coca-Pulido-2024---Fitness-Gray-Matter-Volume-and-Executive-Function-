@@ -1,5 +1,6 @@
-Fitness, Gray Matter Volume, and Executive Function in Cognitively Normal Older Adults: Cross-Sectional Findings From the AGUEDA Trial
-
+_____________________________________________________________________________________________________
+# Fitness, Gray Matter Volume, and Executive Function in Cognitively Normal Older Adults: Cross-Sectional Findings From the AGUEDA Trial
+_____________________________________________________________________________________________________
 ABSTRACT
 The aim of the study is to investigate the association of cardiorespiratory fitness (CRF) and muscular strength indicators with
 gray matter volume (GMV) and to study whether fitness-related regions of GMV are associated to executive function (EF) in
@@ -16,6 +17,7 @@ squats strength and CRF were negatively related to GMV.
 ClinicalTrials.gov identifier: NCT05186090.
 
 Correspondence: Andrea Coca-Pulido (acocapulido@ugr.es) | Irene Esteban-Cornejo (ireneesteban@ugr.es)
+_____________________________________________________________________________________________________
 
 RESEARCH TEAM OF THE AGUEDA TRIAL:
 
@@ -46,10 +48,12 @@ Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92
 Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 OTHER COLLABORATORS:
-Esmée A. Bakker: Postdoctoral researcher (
+Esmée A. Bakker: Postdoctoral researcher (Esmee.Bakker@radboudumc.nl)
 
-Charles H. Hillman:
+Charles H. Hillman: Established researcher (c.hillman@northeastern.edu)
 
-Kirk I. Erickson:
+Kirk I. Erickson: Established researcher (kirk.erickson@adventhealth.com)
 
-Francisco B. Ortega:
+Francisco B. Ortega: Established researcher (ortegaf@ugr.es)
+_____________________________________________________________________________________________________
+
