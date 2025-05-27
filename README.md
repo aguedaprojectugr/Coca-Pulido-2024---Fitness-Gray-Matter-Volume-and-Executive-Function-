@@ -48,6 +48,7 @@ Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92
 Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 OTHER COLLABORATORS:
+
 Esmée A. Bakker: Postdoctoral researcher (Esmee.Bakker@radboudumc.nl)
 
 Charles H. Hillman: Established researcher (c.hillman@northeastern.edu)
